@@ -1,0 +1,26 @@
+﻿123456778+987+
+abcdefghijklmnop
+ABCDEFGHIJK
+mr. kiran Kumar
+Mr Kiran Kumar
+MR. KIRAN KUMAR
+MS. Tuhina
+Ms Tuhina
+(Mr|Ms|MR|MS)+(\.| )+[a-z]
++1234.   445678
+LaLa Lalala LalaLa     
+
+0175/12345678
++49165/12345678
+0049165/12345678
+
+((\+49)|(0049))|0?1(6|7)\d/\d{8}
+https://www.tutorial.eu
+https://tutorial.eu
+http://www.tutorial.eu
+http://tutorial.eu
+     
+
+
+                
+!@#$%^ &*(),./?;:'"{}[]"\|
