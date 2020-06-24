@@ -13,7 +13,7 @@ namespace AdditionTask17122019
         string lastName, eyeColor;
         protected int age = 10;
 
-        // contructors will be called at the start of the class or object/instance of the class
+        // contructors will be called at the start of the class or object/instance of the class.
         //default Constructor
         // Constructors are the piece of code which needs to be executed for every class or 
         // instance/object of a class
